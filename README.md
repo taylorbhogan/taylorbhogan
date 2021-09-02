@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorbhogan&count_private=true)
-)](https://github.com/taylorbhogan/github-readme-stats)
+](https://github.com/taylorbhogan/github-readme-stats)
+
 
 
 <!--
