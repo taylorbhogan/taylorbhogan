@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Taylor.
 
-[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorbhogan&count_private=true)
+[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorbhogan&show_icons=true&theme=cobalt)
 ](https://github.com/taylorbhogan/github-readme-stats)
+
 
 
 
