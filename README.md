@@ -7,7 +7,7 @@
 - 😎 Check out my portfolio at [taylorbhogan.me](taylorbhogan.me)
 
 Fun facts:
-- 🌏 I've lived on 3 continents, if you count the middle of the Pacific as a continent.
+- 🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.
 - 👨‍🎓 My university gave me a full academic scholarship...and I still joined a bootcamp afterwards. Education is changing.
 - 🦅 This is still somehow the best emoji I can find to accompany the fact that I'm an Eagle Scout.
 
