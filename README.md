@@ -4,7 +4,7 @@
 - 👨‍💻 And caring for the Yosemite National Park Community website.
 - 🏔 Just re-joined a climbing gym for the first time since the pandemic hit...
 - ⚽️ And a soccer league for the first time since I let that ball go between my legs when I was 9. Wish me luck.
-- 😎 Check out my portfolio at [taylorbhogan.me](taylorbhogan.me)
+- 😎 Check out my portfolio at [taylorbhogan.me](https://taylorbhogan.me/)
 
 Fun facts:
 - 🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.
