@@ -6,10 +6,10 @@
 ⚽️ And a soccer league for the first time since I let that ball go between my legs when I was 9. Wish me luck.<br/>
 😎 Check out my portfolio at [taylorbhogan.dev](https://taylorbhogan.dev/)
 
-Here are some fun facts about me:
-- 🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.
-- 👨‍🎓 My university gave me a full academic scholarship...and I still joined a bootcamp afterwards. Education is changing.
-- 🦅 This is still somehow the best emoji I can find to accompany the fact that I'm an Eagle Scout.
+#### Here are some fun facts about me:
+🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.<br/>
+👨‍🎓 My university gave me a full academic scholarship...and I still joined a bootcamp afterwards. Education is changing.<br/>
+🦅 This is still somehow the best emoji I can find to accompany the fact that I'm an Eagle Scout.<br/><br/>
 
 [![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorbhogan&show_icons=true&theme=cobalt)
 ](https://github.com/taylorbhogan/github-readme-stats)
