@@ -1,12 +1,12 @@
 ### Hi there! I'm Taylor.
 
-- 🌱 I'm currently learning Typescript...
-- 👨‍💻 And caring for the Yosemite National Park Community website.
-- 🏔 Just re-joined a climbing gym for the first time since the pandemic hit...
-- ⚽️ And a soccer league for the first time since I let that ball go between my legs when I was 9. Wish me luck.
-- 😎 Check out my portfolio at [taylorbhogan.dev](https://taylorbhogan.dev/)
+🌱 I'm currently learning Typescript...<br/>
+👨‍💻 And caring for the Yosemite National Park Community website.<br/>
+🏔 Just re-joined a climbing gym for the first time since the pandemic hit...<br/>
+⚽️ And a soccer league for the first time since I let that ball go between my legs when I was 9. Wish me luck.<br/>
+😎 Check out my portfolio at [taylorbhogan.dev](https://taylorbhogan.dev/)
 
-Fun facts:
+Here are some fun facts about me:
 - 🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.
 - 👨‍🎓 My university gave me a full academic scholarship...and I still joined a bootcamp afterwards. Education is changing.
 - 🦅 This is still somehow the best emoji I can find to accompany the fact that I'm an Eagle Scout.
