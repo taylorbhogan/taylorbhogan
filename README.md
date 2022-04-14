@@ -6,7 +6,7 @@
 ⚽️ And a soccer league for the first time since I let that ball go between my legs when I was 9. Wish me luck.<br/>
 😎 Check out my portfolio at [taylorbhogan.dev](https://taylorbhogan.dev/)
 
-#### Here are some fun facts about me:
+#### Some fun facts about me:
 🌏 I've lived on 3 continents, if you count floating in the middle of the Pacific as a continent.<br/>
 👨‍🎓 My university gave me a full academic scholarship...and I still joined a bootcamp afterwards. Education is changing.<br/>
 🦅 This is still somehow the best emoji I can find to accompany the fact that I'm an Eagle Scout.<br/><br/>
@@ -14,7 +14,7 @@
 [![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorbhogan&show_icons=true&theme=cobalt)
 ](https://github.com/taylorbhogan/github-readme-stats)
 
-## Technologies Used
+### Some tools I code with:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=333333" /></a>
