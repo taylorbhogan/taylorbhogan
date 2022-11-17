@@ -1,5 +1,9 @@
-### Hi there! I'm Taylor.
+## Hi there! I'm Taylor. I'm a software engineer at Chefables 🧑‍🍳
 
+We're hiring good people, so feel free to reach out if you want to join a tiny, awesome team in our manufacturing space in South San Francisco.
+
+
+<!--
 🌱 I'm currently learning Typescript...<br/>
 👨‍💻 And caring for the Yosemite National Park Community website.<br/>
 🏔 Just re-joined a climbing gym for the first time since the pandemic hit...<br/>
@@ -29,7 +33,7 @@
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
-<!--
+
 **taylorbhogan/taylorbhogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
